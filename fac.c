@@ -8,3 +8,4 @@ int factorial(int a){
         return a*factorial(a-1);
 
 }
+int factorial(int a){/*implementacion iterativa*/}
