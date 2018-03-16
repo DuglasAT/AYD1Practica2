@@ -18,3 +18,8 @@ int mulltiplicar(int operando1, int operando2)
 {
 	return operando1 * operando2;
 }
+
+int potencia(int operando1, int operando2)
+{
+	return pow (operando1, operando2);
+}
