@@ -21,6 +21,7 @@ int mulltiplicar(int operando1, int operando2)
 	return res;
 }
 
+int modular(int a){return mod(a);}
 
 int resta();
 int division();
