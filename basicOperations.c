@@ -14,7 +14,7 @@ int suma(int operando1, int operando2)
 	return operando1 + operando2;
 }
 <<<<<<< HEAD
-
+//operacion revisada - nada que validar
 int mulltiplicar(int operando1, int operando2)
 {
 	return operando1 * operando2;
