@@ -28,6 +28,7 @@ int resta();
 int division();
 >>>>>>> 70b83febc87db636a2676e5e6a4d71b8696a3d2c
 =======
+//operacion revisada - nada que validar
 int sqrt(int a){return sqrt(a);}
 >>>>>>> feature
 =======
