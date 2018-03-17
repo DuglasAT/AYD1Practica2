@@ -29,7 +29,7 @@ int division();
 int sqrt(int a){return sqrt(a);}
 >>>>>>> feature
 =======
-
+//operacion revisada - nada que validar
 int potencia(int operando1, int operando2)
 {
 	return pow (operando1, operando2);
