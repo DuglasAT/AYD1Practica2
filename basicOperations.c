@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-
+//operacion revisada - nada que validar
 int suma(int operando1, int operando2)
 {
 	return operando1 + operando2;
