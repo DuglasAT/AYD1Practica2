@@ -22,6 +22,7 @@ int mulltiplicar(int operando1, int operando2)
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+//operacion revisada - nada que validar
 int resta();
 int division();
 >>>>>>> 70b83febc87db636a2676e5e6a4d71b8696a3d2c
