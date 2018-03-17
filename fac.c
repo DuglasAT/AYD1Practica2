@@ -8,4 +8,5 @@ int factorial(int a){
         return a*factorial(a-1);
 
 }
+//operacion revisada - nada que validar
 int factorial(int a){/*implementacion iterativa*/}
