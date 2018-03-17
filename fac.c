@@ -1,6 +1,6 @@
 int factorial(int a);
 
-
+//operacion revisada - nada que validar
 int factorial(int a){
     if (n==0)
         return 1;
